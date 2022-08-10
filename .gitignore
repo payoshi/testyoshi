@@ -1,4 +1,4 @@
 test.txt
 directory_1/
-!directory_1/file_2.txt
+!/directory_1/file_2.txt
 *.log
